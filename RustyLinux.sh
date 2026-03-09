@@ -88,6 +88,9 @@ cargo install broot
 # uniqtoo
 cargo install uniqtoo
 
+# gitoxide
+cargo install --git https://github.com/GitoxideLabs/gitoxide gitoxide
+
 
 # GUI
 
